@@ -1,0 +1,15 @@
+=== Ride Sharing System Demo (Smalltalk) ===
+
+Polymorphic Ride Summary:
+Ride ID: RIDE-101 | Type: Standard | From: Campus | To: Library | Distance: 4.2 miles | Fare: $8.3
+Ride ID: RIDE-102 | Type: Premium | From: Airport | To: Hotel | Distance: 12.5 miles | Fare: $42.5
+Ride ID: RIDE-103 | Type: Standard | From: Mall | To: Station | Distance: 7.0 miles | Fare: $12.5
+
+Rider History:
+Rider ID: RIDER-01 | Name: Alice Johnson | Ride Requests: 3
+  - Ride ID: RIDE-101 | Type: Standard | From: Campus | To: Library | Distance: 4.2 miles | Fare: $8.3
+  - Ride ID: RIDE-102 | Type: Premium | From: Airport | To: Hotel | Distance: 12.5 miles | Fare: $42.5
+  - Ride ID: RIDE-103 | Type: Standard | From: Mall | To: Station | Distance: 7.0 miles | Fare: $12.5
+
+Driver Summary:
+Driver ID: DRIVER-88 | Name: Michael Reed | Rating: 4.9 | Completed Rides: 3 | Total Earnings: $63.3
